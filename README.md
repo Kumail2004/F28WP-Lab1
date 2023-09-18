@@ -1,2 +1,3 @@
-# F28WP-Lab1
-Hello i am kumail this is my first repository!!!
+# F28WP-lab1
+
+This is a read me file
